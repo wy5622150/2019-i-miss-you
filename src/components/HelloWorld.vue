@@ -65,7 +65,7 @@
     >
       <template v-slot:input>
         <v-container>
-          <v-flex style="white-space: pre-wrap; ">提交成功！感谢您提供的信息！请关闭当前页面。</v-flex>
+          <v-flex style="white-space: pre-wrap; ">提交成功！感谢您今日提供的信息！请关闭当前页面。</v-flex>
         </v-container>
       </template>
     </SimpleTextPopup>
